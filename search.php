@@ -3,7 +3,7 @@
      Template Name: Blog
     */
 ?>
-XX
+XXXXXXXXX
 <?php get_header(); ?>
 <div class="content-area">
     <div class="container">
